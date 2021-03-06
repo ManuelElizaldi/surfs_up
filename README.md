@@ -42,7 +42,7 @@ Three takeaway points from this analysis:
 
 ## Summary:
 ------
- 
+In summary we can determine that opening a surf and icecream store in Oahu is a safe investment considering the weather. Of course there is other variables that we need to consider like the demand for this type of products, turist seasons and cost/rent of the store.  
  
 ### Additional queries that we could add to expand this analysis are:
 
