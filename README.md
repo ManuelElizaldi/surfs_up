@@ -9,9 +9,14 @@ For this project we analyzed weather data for the island of Oahu in Hawaii to de
 * Jupyter Notebook
 * SQLite database - hawaii.sqlite database file
 
-
 ## Results:
 ------
+In the following tables you can see the results from the statistical analysis for the month of June and December. 
+Three takeaway points from this analysis:
+
+* The weather in the island of Oahu is consisten year round, with an average Temperature of 75° for the monht of june and 71° for the month of december. 
+* The minimum Temperature for June is 64° and 56° for december which are pleasant temperatures for outdoors activities.  
+* The value of the standard deviation is 3.25° for june and 3.74° for december, therefore we can say with certainty that the weather does not vary too much. Making the Island of Oahu a safe option to open the surf and icecream shop. 
 
 | June Stats      |           |
 |-----------------|-----------|
@@ -35,10 +40,13 @@ For this project we analyzed weather data for the island of Oahu in Hawaii to de
 | 75%            | 74        |
 | max            | 83        |
 
-Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
-
 ## Summary:
 ------
+ 
+ 
+### Additional queries that we could add to expand this analysis are:
 
-
-Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
+* We could add a query to obtain the data for precipitation for each month.
+* Add graphs to observe the behavior of the temperature through the days of the month. 
+* A query that returns the statistical data for each year in the data base in order to get the temperature through out the year.
+* A query that returns the seasonal statistical data to compare the weather for each season. 
